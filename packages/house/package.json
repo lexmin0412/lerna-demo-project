@@ -12,5 +12,8 @@
     "lodash": "^4.17.20",
     "window": "^0.0.1"
   },
-  "gitHead": "93ef340d5f26cb90f9fbdee59ebf4a97ea0795e0"
+  "gitHead": "1dbd7875bdddd65cb9ef57e7f2779cb18ed42265",
+  "publishConfig": {
+    "access": "public"
+  }
 }
