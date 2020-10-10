@@ -1,0 +1,1 @@
+console.log('into window package index.js')
