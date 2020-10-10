@@ -1,5 +1,5 @@
 {
-  "name": "window",
+  "name": "@tarox/plugin-check-env",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "cathe-zhang <zhangle_web@163.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "df3f4b31da7fc9e1c5179988384abcd5902d2415"
 }
